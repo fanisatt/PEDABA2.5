@@ -1,8 +1,12 @@
 # PEDABA2.5
 Data Base Maker
+
 gcc -c prog_582.c -lSDL_bgi -lSDL2 -lSDL2_image
+
 gcc -c input88.c -lSDL_bgi -lSDL2
+
 gcc -o PEDABA2.5 prog_582.o input88.o -lSDL_bgi -lSDL2 -lm -lSDL2_image
+
 Installation Instructions for Pedaba 2.5
 Pedaba is a powerful portable general purpose database application for Linux 64bit Operating Systems (OSs).
 Pedaba 2.5 is simply ... sexy !!
